@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas Bootcamp</string>
+    <string name="nav">Detail Game</string>
+    <string name="title">Elden Ring</string>
+    <string name="date">2022–02-25</string>
+    <string name="genre1">Action</string>
+    <string name="genre2">RPG</string>
+    <string name="aboutGame">About Game</string>
+    <string name="paragraph1">The Golden order has been broken.</string>
+    <string name="paragraph2">Rise, Tarnished, and be guided by grace to brandish the power of the elden Ring and become an Elde Lord in the Lands Between.</string>
+    <string name="paragraph3">in the Lands Between. In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.</string>
+    <string name="paragraph4">Marika’s offspring, demigods all, claimed the sha rds of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength trig gered a war: The Shattering. A war that meant abandonment by the Greater</string>
+</resources>
